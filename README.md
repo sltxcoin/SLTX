@@ -28,4 +28,4 @@ The detailed department consists of a development team and legal team and commun
 <!-- <br> -->
 
 <!-- ## Community -->
-<!-- <b> KakaoTalk </b> : https://open.kakao.com/o/gxbKjsxc --> -->
+<!-- <b> KakaoTalk </b> : https://open.kakao.com/o/gxbKjsxc --> 
